@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - oride_flutter_plugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - oride_flutter_plugin (from `.symlinks/plugins/oride_flutter_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  oride_flutter_plugin:
+    :path: ".symlinks/plugins/oride_flutter_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  oride_flutter_plugin: b3e571728724ab84c946dce3248423ece3993ea7
+
+PODFILE CHECKSUM: 083258d7f5e80b42ea9bfee905fe93049bc04c64
+
+COCOAPODS: 1.8.4
