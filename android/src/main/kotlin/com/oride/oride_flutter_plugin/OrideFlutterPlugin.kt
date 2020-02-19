@@ -32,7 +32,7 @@ public class OrideFlutterPlugin: FlutterPlugin, MethodCallHandler {
   // in the same class.
   companion object {
     @JvmStatic
-    fun registerWith(registrar: Registrar) {
+    fun reg(registrar: Registrar) {
       val channel = MethodChannel(registrar.messenger(), "oride_flutter_plugin")
       channel.setMethodCallHandler(OrideFlutterPlugin())
     }
