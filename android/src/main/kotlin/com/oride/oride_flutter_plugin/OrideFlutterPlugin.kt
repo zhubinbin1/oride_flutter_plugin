@@ -9,6 +9,8 @@ import io.flutter.plugin.common.MethodChannel.Result
 import io.flutter.plugin.common.PluginRegistry.Registrar
 
 /** OrideFlutterPlugin */
+
+//https://juejin.im/post/5e034f3af265da33c24ffe45 新版更新介绍
 public class OrideFlutterPlugin: FlutterPlugin, MethodCallHandler {
   /// The MethodChannel that will the communication between Flutter and native Android
   ///
